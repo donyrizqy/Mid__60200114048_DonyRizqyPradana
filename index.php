@@ -14,4 +14,4 @@ function totalHarga($qty)
 	return 5000 * $qty;
 }
 $nama = 'Fulan';
-echo strtoupper($nama) . ' membeli barang dengan biaya ' . totalHarga(10);
+echo strtoupper($nama) . ' Membeli Barang dan Harga ' . totalHarga(10);
